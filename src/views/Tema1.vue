@@ -254,7 +254,7 @@
       .p-4.p-xl-5(style="background-color:#F3F9FF;border-radius:5px;")
         .col-xl-11.m-auto
           figure(data-aos="zoom-in-up")
-            img(src="@/assets/curso/tema1/26.svg")
+            img(src="@/assets/curso/tema1/26.svg" alt="Imagen que presenta la estructura del sistema financiero colombiano.")
     
     Separador
 
@@ -262,6 +262,34 @@
       h2#t_1_3 1.3 Historia y su relevancia 
     
     p(data-aos="fade-right") Conozcamos, a través de la siguiente línea de tiempo, la historia y relevancia del sistema financiero colombiano. 
+
+    .col-xl-8.m-auto.mt-4
+      .p-3(style="background-color:#F6F6F6;border-radius:8px;")
+        LineaTiempoE.color-secundario.m-4(data-aos="zoom-in")
+          .row.col-xl-11.m-auto(titulo="1850")
+            p.mb-0 Se suprimen las casas de monedas, porque la gente prefería comercializar metales preciosos.
+          .row.col-xl-11.m-auto(titulo="1854")
+            p.mb-0 Surge la primera entidad financiera privada para financiar operaciones comerciales y mineras.
+          .row.col-xl-11.m-auto(titulo="1863")
+            p.mb-0 Se promulga la Constitución de Rionegro, la cual crea los Estados Unidos de Colombia. 
+          .row.col-xl-11.m-auto(titulo="1864")
+            p.mb-0 Se autoriza la llegada de bancos extranjeros, como el de Londres y México. 
+          .row.col-xl-11.m-auto(titulo="1870")
+            p.mb-0 Se funda el primer banco exitoso, el Banco de Bogotá. 
+          .row.col-xl-11.m-auto(titulo="1875")
+            p.mb-0 Se funda el Banco de Colombia. 
+          .row.col-xl-11.m-auto(titulo="1880")
+            p.mb-0 El Congreso promulga la Ley 39, que autoriza la creación de un banco nacional. 
+          .row.col-xl-11.m-auto(titulo="1886")
+            p.mb-0 Se crea la República de Colombia, el Decreto 104 ordena emitir billetes de un peso, eliminando el patrón de oro de nuestra economía. 
+          .row.col-xl-11.m-auto(titulo="1894 - 1898")
+            p.mb-0 Ocurre la guerra de los mil días. 
+          .row.col-xl-11.m-auto(titulo="1905")
+            p.mb-0 Se crea el Canco Central de Colombia, durante el Gobierno de Rafael Reyes. 
+          .row.col-xl-11.m-auto(titulo="1922")
+            p.mb-0 Ocurre una crisis que evidencia la escasez de medio circulante y la necesidad de dar estabilidad a la moneda y al crédito. El Congreso expidió varias leyes y autoriza al Gobierno para contratar una misión de expertos extranjeros para que asesorarán al país en la organización de la estructura monetaria y bancaria y dar la estabilidad al sistema. 
+          .row.col-xl-11.m-auto(titulo="1929")
+            p.mb-0 Se da inicio a la gran depresión en Estados Unidos, a partir de la caída de la bolsa de valores de Nueva York; esto trae grandes problemas económicos, como la crisis financiera, bajaron los precios y problemas sociales como el incremento del desempleo y el aumento de la pobreza. 
 
 
 
