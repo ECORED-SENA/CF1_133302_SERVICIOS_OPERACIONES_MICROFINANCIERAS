@@ -63,7 +63,25 @@ export default {
 .banner-principal__row .banner-principal__img img
   max-width: 260px
   margin: 0 auto
+.cont_decorativo, .cont_decorativo *
+  position: relative
+  max-width: fit-content
+.cont_decorativo:before
+  content: ''
+  position: absolute
+  width: 90%
+  right: 3%
+  height: 67%
+  top: 18%
+  bottom: 15%
+  background-color: #201144
+  border-radius: 50px
 @media screen and (max-width: 992px)
   .banner-principal .tarjeta
     background-size: cover !important
+  .cont_decorativo:before
+    height: 90%
+    top: 5%
+    bottom: 5%
+    right: 6%
 </style>
