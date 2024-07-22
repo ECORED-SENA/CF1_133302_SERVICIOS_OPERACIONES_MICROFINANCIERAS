@@ -63,7 +63,7 @@
               h4(style="color:#22CAC5;") Pódcast
               p.text-white Lo invitamos a escuchar el siguiente pódcast, donde puede conocer la opinión de Yunus sobre la temática que venimos estudiando. 
               TarjetaAudio.color-primario.mt-4(
-              texto="Podcast Yunus"
+              texto="Pódcast Yunus"
               :audio="require('@/assets/componentes/audios/podcast_001.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )

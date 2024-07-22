@@ -93,13 +93,13 @@
                 .anexo__texto
                   p.fw-bold(style="color:#12263F;") Decreto 957 de 2019 
             .col-lg-6.mb-4
-              a.anexo(href="https://www.suin-juriscol.gov.co/viewDocument.asp?id=1729784" target="_blank")
+              a.anexo(href="http://www.secretariasenado.gov.co/senado/basedoc/ley_0590_2000.html" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
                   p.fw-bold(style="color:#12263F;") Ley 590 de 2000
             .col-lg-6.mb-4
-              a.anexo(href="http://www.secretariasenado.gov.co/senado/basedoc/ley_0590_2000.html" target="_blank")
+              a.anexo(href="https://www.suin-juriscol.gov.co/viewDocument.asp?id=1729784" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto

@@ -140,10 +140,10 @@
               figure
                 img(src="@/assets/curso/tema1/6.svg")
             .col
-              h4(style="color:#22CAC5;") Podcast Comisión
+              h4(style="color:#22CAC5;") Pódcast Comisión
               p.text-white Lo invitamos a escuchar el siguiente pódcast, para conocer más sobre la comisión. 
               TarjetaAudio.color-primario.mt-4(
-              texto="Podcast Comisión"
+              texto="Pódcast Comisión"
               :audio="require('@/assets/componentes/audios/podcast_002.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
