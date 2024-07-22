@@ -60,7 +60,7 @@
               figure
                 img(src="@/assets/curso/tema1/6.svg")
             .col
-              h4(style="color:#22CAC5;") Podcast
+              h4(style="color:#22CAC5;") Pódcast
               p.text-white Lo invitamos a escuchar el siguiente pódcast, donde puede conocer la opinión de Yunus sobre la temática que venimos estudiando. 
               TarjetaAudio.color-primario.mt-4(
               texto="Podcast Yunus"
@@ -75,7 +75,7 @@
     .titulo-segundo(data-aos="flip-up")
       h2#t_1_1 1.1  Contexto regional  
     
-    p(data-aos="fade-right") En Colombia, la era de los microempresarios se puede enmarcar con El Programa Global de Crédito para la Microempresa, apoyado por el Banco Interamericano de Desarrollo, BID. Dicha institución inicia su programa de pequeños proyectos inicialmente en asocio con la Fundación Carvajal, pero para 1984 ya habían ocho ONG comprometidas con esta actividad. 
+    p(data-aos="fade-right") En Colombia, la era de los microempresarios se puede enmarcar con el Programa Global de Crédito para la Microempresa, apoyado por el Banco Interamericano de Desarrollo, BID. Dicha institución inicia su programa de pequeños proyectos inicialmente en asocio con la Fundación Carvajal, pero para 1984 ya habían ocho ONG comprometidas con esta actividad. 
     .col-xl-10.m-auto.mt-4
       .p-4(style="background-color:#E8E7E7;border-radius:8px;" data-aos="fade-up")
         .col-xl-10.m-auto
@@ -139,7 +139,7 @@
           figure.m-auto.col-9.col-md-7.col-lg-12
             img(src="@/assets/curso/tema1/14.png")
         .col-lg-8(data-aos="fade-left")
-          p.fw-bold Con el tiempo estas instituciones fueron creciendo, desarrollando sistemas que minimizaran los riesgos, así mismo ampliaron la oferta de productos. 
+          p.fw-bold Con el tiempo estas instituciones fueron creciendo, desarrollando sistemas que minimizaran los riesgos y asimismo ampliaron la oferta de productos. 
           p Las microfinancieras han sido herramienta para ayudar a erradicar la pobreza en el mundo entero, si bien es cierto la ayuda que se ofrece no es regalar dinero, sí es impulsar a los más necesitados, ofreciendo productos y servicios a su alcance, que como todo movimiento, va a generar un coste a tener en cuenta. 
     
     .cont_decorativo.mb-4.mt-5(data-aos="fade-right")
@@ -238,7 +238,7 @@
           .mb-5.mt-3
             p La transformación digital y la innovación como herramienta han sido el tema central del máximo representante del PNUD (Programa de Naciones Unidas para el Desarrollo), Achim Steiner, y del director general de la Fundación de Microfinanzas BBVA, Javier Flores, para que más mujeres accedan al sistema financiero y ayuden a cerrar la brecha de género, para ello se encuentran en conversaciones con Microsoft, para capacitación en temas digitales.
 
-    p.mt-4(data-aos="fade-right") Facilitar el acceso a mujeres al sistema financiero, permiten que aumenten sus ingresos y mejoren su futuro. En emprendimiento, América Latina registra la mayor paridad de género, por cada 10 hombres hay 8 mujeres, mientras que en Europa hay 5 por cada 10 hombres, si ella pudiera participar equitativamente en la economía, se añadirían 28 billones de dólares al PIB mundial en al 2025.  
+    p.mt-4(data-aos="fade-right") Facilitar el acceso a mujeres al sistema financiero, permite que aumenten sus ingresos y mejoren su futuro. En emprendimiento, América Latina registra la mayor paridad de género, por cada 10 hombres hay 8 mujeres, mientras que en Europa hay 5 por cada 10 hombres, si ella pudiera participar equitativamente en la economía, se añadirían 28 billones de dólares al PIB mundial en el 2025.  
 
     Separador
 
@@ -287,7 +287,7 @@
           .row.col-xl-11.m-auto(titulo="1905")
             p.mb-0 Se crea el Canco Central de Colombia, durante el Gobierno de Rafael Reyes. 
           .row.col-xl-11.m-auto(titulo="1922")
-            p.mb-0 Ocurre una crisis que evidencia la escasez de medio circulante y la necesidad de dar estabilidad a la moneda y al crédito. El Congreso expidió varias leyes y autoriza al Gobierno para contratar una misión de expertos extranjeros para que asesorarán al país en la organización de la estructura monetaria y bancaria y dar la estabilidad al sistema. 
+            p.mb-0 Ocurre una crisis que evidencia la escasez de medio circulante y la necesidad de dar estabilidad a la moneda y al crédito. El Congreso expidió varias leyes y autoriza al Gobierno para contratar una misión de expertos extranjeros para que asesoraran al país en la organización de la estructura monetaria y bancaria y dar la estabilidad al sistema. 
           .row.col-xl-11.m-auto(titulo="1929")
             p.mb-0 Se da inicio a la gran depresión en Estados Unidos, a partir de la caída de la bolsa de valores de Nueva York; esto trae grandes problemas económicos, como la crisis financiera, bajaron los precios y problemas sociales como el incremento del desempleo y el aumento de la pobreza. 
 

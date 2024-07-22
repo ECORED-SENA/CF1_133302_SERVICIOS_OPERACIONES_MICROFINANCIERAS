@@ -267,7 +267,7 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Líder del Ecosistema',
+          cargo: 'Responsable del Ecosistema',
           centro: 'Dirección General',
         },
         {
@@ -282,15 +282,15 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Santiago Muñoz de la Rosa ',
-          cargo: 'Experto temático',
+          nombre: 'Vilma Andrea Baracaldo Neira',
+          cargo: 'Experta temática',
           centro:
             'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
-          nombre: 'Paola Alexandra Moya Peralta ',
-          cargo: 'Evaluadora Instruccional ',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia ',
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
     },
@@ -326,6 +326,12 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
+        {
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
+        },
         {
           nombre: 'Margarita Marcela Medrano Gómez ',
           cargo: 'Evaluador para Contenidos Inclusivos y Accesibles ',

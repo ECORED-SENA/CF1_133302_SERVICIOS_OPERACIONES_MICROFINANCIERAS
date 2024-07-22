@@ -36,14 +36,14 @@
       .col-lg-9(data-aos="fade-left")
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Financiación")
-            p Según la Ley, deben ser para las empresas o negocios que cumplan con las condiciones de una microempresa: 
+            p Según la ley, deben ser para las empresas o negocios que cumplan con las condiciones de una microempresa: 
             ul.lista-ul
               li.d-flex
                 i.fas.fa-check-circle(style="color:#B15815;")
                 div Entre 1 y 10 empleados. 
               li.d-flex
                 i.fas.fa-check-circle(style="color:#B15815;")
-                div Que sus activos totales se encuentren 1 y 500 SMMLV. 
+                div Que sus activos totales se encuentren entre 1 y 500 SMMLV. 
           .row(titulo="Saldo de endeudamiento")
             p No puede exceder 120 SMMLV al momento de la aprobación. 
           .row(titulo="Fuente de pago de crédito")
@@ -149,7 +149,7 @@
             )
       .col-lg-4(data-aos="fade-left")
         .p-4.h-100.d-flex.align-content-center.flex-wrap(style="background-color:#F6EDE6;border-radius:8px;")
-          p.mb-0 El Gobierno de Colombia, a través del Ministerio de Comercio, Industria y Turismo, busca introducir nuevas obligaciones a cumplir por los operadores de microcréditos que quieran cobrar una Comisión MiPymes a sus clientes, dentro de las cuales incluye los honorarios y comisiones aplicables al microcrédito. En el artículo 39 de la Ley 590 de 2000 y la Resolución 1 de 2007 del Consejo Superior de Microfinanzas, se relacionan el cobro de honorarios y comisiones en las operaciones de microcrédito y se definen así: 
+          p.mb-0 El Gobierno de Colombia, a través del Ministerio de Comercio, Industria y Turismo, busca introducir nuevas obligaciones a cumplir por los operadores de microcréditos que quieran cobrar una comisión MiPymes a sus clientes, dentro de las cuales incluye los honorarios y comisiones aplicables al microcrédito. En el artículo 39 de la Ley 590 de 2000 y la Resolución 1 de 2007 del Consejo Superior de Microfinanzas, se relacionan el cobro de honorarios y comisiones en las operaciones de microcrédito y se definen así: 
     
     .row.mt-4
       .col-lg.mb-4.mb-lg-0.pe-lg-0
@@ -201,7 +201,7 @@
           p Que se trate de un microcrédito no implica que el monto obtenido sea pequeño como podría indicar su denominación. En realidad, este tipo de asistencias se encuentran reguladas en el marco del sistema financiero del país y están bien precisados en diversos artículos de la normativa legal. 
           p.mb-0 Esa es la razón por la cual en los microcréditos se cuenta con tasas determinadas de interés y condiciones especiales en cuanto a los plazos de amortización que son utilizados para la financiación de proyectos que se encuentran en funcionamiento (Educar, 2019).
 
-    p.mt-4(data-aos="fade-right") Ahora, la cuota es el valor del pago que se pacta entre las partes, generalmente las cuotas son mensuales, sin embargo, dependerá del destino específico del microcrédito y de las políticas de cada entidad su cumplimiento y su concepción se hace por medio de un contrato.  
+    p.mt-4(data-aos="fade-right") Ahora, la cuota es el valor del pago que se pacta entre las partes, generalmente las cuotas son mensuales, sin embargo, dependerá del destino específico del microcrédito y de las políticas de cada entidad su cumplimiento y su concepción se hacen por medio de un contrato.  
 
     Separador
 
