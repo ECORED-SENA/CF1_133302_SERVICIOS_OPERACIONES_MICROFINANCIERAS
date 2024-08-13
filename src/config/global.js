@@ -144,7 +144,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/133302_CF01_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -267,12 +267,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Olga Constanza Bermudez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
@@ -289,7 +289,7 @@ export default {
         },
         {
           nombre: 'Ana Catalina Córdoba Sus',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -299,25 +299,31 @@ export default {
       autores: [
         {
           nombre: 'Carlos Julián Ramírez Benítez',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Luis Jesús Pérez Madariaga',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Edgar Mauricio Cortés García',
-          cargo: 'Actividad Didáctica',
+          cargo: 'Actividad didáctica',
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Daniela Muñoz Bedoya ',
-          cargo: 'Animador y Productor Multimedia',
+          nombre: 'Daniela Muñoz Bedoya',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Andrés Felipe Guevara Ariza',
+          cargo: 'Locución',
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
@@ -328,19 +334,19 @@ export default {
       autores: [
         {
           nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Margarita Marcela Medrano Gómez ',
-          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles ',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles ',
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
