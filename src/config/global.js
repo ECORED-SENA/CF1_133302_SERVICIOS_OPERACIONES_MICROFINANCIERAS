@@ -174,13 +174,6 @@ export default {
       link:
         'https://www-digitaliapublishing-com.bdigital.sena.edu.co/a/17272/experiencias-internacionales-sobre-microfinanzas---manual-del-microcredito',
     },
-    {
-      tema: 'Microempresa',
-      referencia:
-        'Soler, C. y Reig, E. (2011). <em>Pequeñas empresas, grandes ideas Las claves para la gestión de la empresa familiar</em>.',
-      tipo: 'Libro',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4567',
-    },
   ],
   glosario: [
     {
@@ -247,8 +240,6 @@ export default {
     {
       referencia:
         'Vázquez, P. (2018). <em>MICROCRÉDITOS. El costo de contratarlos</em> (Reportaje).',
-      link:
-        'http://docplayer.es/92818175-Micr-el-costo-de-contratarlos-reportaje.html ',
     },
     {
       referencia:

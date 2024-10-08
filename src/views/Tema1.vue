@@ -11,7 +11,7 @@
     
     figure.mt-4(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/F2g34hWrTYI" title="Origen de las microfinanzas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/w-8Xy1N5Los?si=mtTkTA67z82qO634" title="Origen de las microfinanzas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mt-4(data-aos="fade-left") Para ampliar la información, lo invitamos a visitar el PDF #[strong El papel de la mujer en los microcréditos de los países en vías de desarrollo. El caso de Mohammad Yunus (Bangladesh)], el cual se encuentra en el material complementario. 
 
@@ -258,7 +258,7 @@
       .p-4.p-xl-5(style="background-color:#F3F9FF;border-radius:5px;")
         .col-xl-11.m-auto
           figure(data-aos="zoom-in-up")
-            img(src="@/assets/curso/tema1/26.svg" alt="Imagen que presenta la estructura del sistema financiero colombiano.")
+            img(src="@/assets/curso/tema1/26.svg" alt="Imagen que presenta cómo la estructura del sistema financiero colombiano se divide en dos grandes grupos: entidades financieras y aseguradoras. Dentro de las entidades financieras, se encuentran los establecimientos de crédito, que incluyen establecimientos bancarios, corporaciones financieras, compañías de financiamiento y cooperativas financieras. Además, están las sociedades de servicios financieros, que abarcan las sociedades fiduciarias, las administradoras de fondos de pensiones y los almacenes generales de depósito. Por otro lado, en el sistema financiero también se encuentran las aseguradoras, que incluyen principalmente las sociedades de capitalización. Esta estructura refleja la organización del sistema financiero en Colombia, abarcando tanto a las instituciones bancarias y de inversión como a las entidades que gestionan seguros y capitalización.")
     
     Separador
 
@@ -289,7 +289,7 @@
           .row.col-xl-11.m-auto(titulo="1894 - 1898")
             p.mb-0 Ocurre la guerra de los mil días. 
           .row.col-xl-11.m-auto(titulo="1905")
-            p.mb-0 Se crea el Canco Central de Colombia, durante el Gobierno de Rafael Reyes. 
+            p.mb-0 Se crea el Banco Central de Colombia, durante el Gobierno de Rafael Reyes. 
           .row.col-xl-11.m-auto(titulo="1922")
             p.mb-0 Ocurre una crisis que evidencia la escasez de medio circulante y la necesidad de dar estabilidad a la moneda y al crédito. El Congreso expidió varias leyes y autoriza al Gobierno para contratar una misión de expertos extranjeros para que asesoraran al país en la organización de la estructura monetaria y bancaria y dar la estabilidad al sistema. 
           .row.col-xl-11.m-auto(titulo="1929")
