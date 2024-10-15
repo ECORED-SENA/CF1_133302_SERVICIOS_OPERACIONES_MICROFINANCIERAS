@@ -11,7 +11,7 @@
     
     figure.mt-4(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/w-8Xy1N5Los?si=mtTkTA67z82qO634" title="Origen de las microfinanzas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/92huP8kro-E?si=qX_IFTSAFMiManUv" title="Origen de las microfinanzas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mt-4(data-aos="fade-left") Para ampliar la información, lo invitamos a visitar el PDF #[strong El papel de la mujer en los microcréditos de los países en vías de desarrollo. El caso de Mohammad Yunus (Bangladesh)], el cual se encuentra en el material complementario. 
 
